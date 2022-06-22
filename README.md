@@ -1,2 +1,2 @@
 # LMSDowndetectorPlugin
-Integracja LMS z serwisem downdetector.pl
+Integracja LMS z serwisem [downdetector.pl](https://downdetector.pl/)
